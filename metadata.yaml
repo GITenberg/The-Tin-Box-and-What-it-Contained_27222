@@ -1,0 +1,35 @@
+_repo: The-Tin-Box-and-What-it-Contained_27222
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alger, Horatio, Jr.
+    aliases:
+    - Starr, Julian
+    - Jr., Horatio Alger
+    - Putnam, Arthur Lee
+    - Alger, Horatio
+    - Preston, Charles F.
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+description: ''
+gutenberg_issued: '2008-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27222'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Success -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Diligence -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Tin Box, and What it Contained
+url: http://www.gutenberg.org/ebooks/27222
